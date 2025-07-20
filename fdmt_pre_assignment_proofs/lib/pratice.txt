@@ -1,0 +1,3 @@
+git init initializes a repo
+git add stages changes
+git commit saves the snapshot
